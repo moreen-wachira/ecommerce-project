@@ -1,0 +1,13 @@
+Random Forest Accuracy: 1.00
+
+Feature Importances:
+              Feature  Importance
+        Product Price    0.539358
+             Quantity    0.457102
+          Customer ID    0.000928
+Total Purchase Amount    0.000881
+DaysSinceLastPurchase    0.000818
+                  Age    0.000376
+         Customer Age    0.000371
+              Returns    0.000091
+                Churn    0.000075
